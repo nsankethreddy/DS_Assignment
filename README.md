@@ -1,5 +1,7 @@
-# DS Assignment(C)
+# DS Assignment
+
+### Implementations for roundrobin and Nqueens algorithms in C
+ 
+- Round robin
   
-Round robin
-  
-Nqueens
+- Nqueens
